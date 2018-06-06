@@ -1,0 +1,15 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "Sender mail from nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "nanomen",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemailer": "^4.6.5"
+  }
+}
